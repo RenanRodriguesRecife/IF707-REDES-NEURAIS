@@ -26,3 +26,9 @@ TDNN
 Base de dados Paratreino
 
 <img src="dataT.jpg">
+
+- Recorrente (existe o Feedback)
+Cria uma representação de memória usada para verificar contextos históricos de curto tempo. (do instante de tempo anterior)
+
+### A rede de Elman
+
