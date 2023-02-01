@@ -22,5 +22,7 @@ TDNN
   Base de dados para treino
   
   Transformar um problema temporal em estático
-  
-  
+
+Base de dados Paratreino
+
+<img src="dataT.jpg">
