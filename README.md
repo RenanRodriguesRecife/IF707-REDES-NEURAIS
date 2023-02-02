@@ -39,3 +39,15 @@ Nesse caso o erro é somado em camada e camada de contexto usado para treinar a 
 Nesse caso a própria rede criar os parametro de erro.
 
 TDNN - pega uma janela de tempo se você seleciona tempos mais relevantes na janela de tempo você está usando algo mais sofisticado que tdnn.
+
+========================
+
+Rede Neurais
+
+Na base de dados retirar os exemplos repetidos
+
+
+backpropagation - vê todos os exemplos
+
+batch - pega um conjuto para treino
+
